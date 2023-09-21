@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "nombre": "Sofá",
-        "descripcion": "Un cómodo sofá para tu sala de estar.",
+        "nombre": "Sofa",
+        "descripcion": "Un comodo sofa para tu sala de estar.",
         "imagen": "images/sofa.jpg"
     },
     {
@@ -13,8 +13,26 @@
     },
     {
         "id": 3,
-        "nombre": "Lámpara",
-        "descripcion": "Una lámpara moderna para iluminar tu hogar.",
+        "nombre": "Lampara",
+        "descripcion": "Una lampara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Librera",
+        "descripcion": "Una comoda librera para tu sala de estar.",
+        "imagen": "images/librera.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Credenza",
+        "descripcion": "Una elegante credenza para tu sala.",
+        "imagen": "images/credenza.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Tocador",
+        "descripcion": "Un tocador moderno para iluminar tu hogar.",
+        "imagen": "images/tocador.jpg"
     }
 ]
